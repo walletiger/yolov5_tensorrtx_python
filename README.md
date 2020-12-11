@@ -1,6 +1,7 @@
 # 1 download tensorrtx 
 
 git clone https://github.com/wang-xinyu/tensorrtx 
+
 git reset --hard 4089c64
 
 # 2 convert your  "yolov5s.pt" to yolov5s.wts  ( yolov5 3.0, yolov5 3.1 )
